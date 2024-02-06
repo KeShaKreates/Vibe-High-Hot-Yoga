@@ -15,4 +15,4 @@ I would optimize this website by adding more content and JavaScript to it to bri
 
 ## Lessons Learned:
 
-I learned the basics of HTML, CS, and Bootstrap.
+I learned the basics of HTML, CSS, and Bootstrap.
