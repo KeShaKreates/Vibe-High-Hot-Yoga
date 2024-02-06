@@ -1,0 +1,41 @@
+body {
+    font-family: 'Zen Loop', cursive !important;
+  }
+  
+  .bg-pink {
+      background: linear-gradient(#d10a6e,#f485a8);
+  }
+  
+  .bg-light-pink {
+      background: linear-gradient(to left,#ffffff,#f485a8);
+  }
+  
+  a {
+      color: black;
+      text-decoration: none;
+      text-decoration-line: none;
+  }
+  
+  header img {
+      text-align: center;
+      width: 55px;
+      height: auto;
+      margin-right: 100px;
+    }
+  
+    .images {
+      min-width: 105px;
+      min-height: 75px;
+      max-width: 100px;
+      max-height: 100px;
+      display: inline-block;
+    }
+  
+    .button {
+      border: solid 1px rgb(0, 0, 0);
+      background: transparent;
+      padding: 15px 50px;
+      color: black;
+      text-decoration: none;
+    } 
+  
